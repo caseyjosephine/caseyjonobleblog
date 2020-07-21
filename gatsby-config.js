@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
+    title: `Casey Jo Noble`,
     name: `Narative`,
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Writing at the intersection of technology and the wine industry.`,
       maxWidth: 652,
     },
     social: [
