@@ -1,12 +1,10 @@
-name: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: ./avatars/dennis-brotzky.jpg
-social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+name: Casey Jo Noble
+bio: 'Professional wine nerd. Amateur Jedi Knight. '
 featured: true
+avatar: avatars/EFB8AC1D-6A72-41D8-84CD-B6DA19EEF10D.jpeg
+social:
+  - url: 'https://unsplash.com'
+  - url: 'https://stackoverflow.com'
+  - url: 'https://github.com'
+  - url: 'https://github.com'
+  - url: 'https://github.com'
